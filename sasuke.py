@@ -536,4 +536,4 @@ async def казах(ctx):
     await ctx.send("Красавчик!")
 
 
-client.run('NzM3NTc1ODc3MjEwMTQ0Nzc4.Xx_XEA.tJ4NQ__ZbmDPVpWy2S0g5bWW8Uk')
+client.run('NzM3NTc1ODc3MjEwMTQ0Nzc4.Xx_XEA.XNCgBBeCkG5mbt6a18_c5Vsd3II')
